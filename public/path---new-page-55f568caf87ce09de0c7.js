@@ -1,0 +1,2 @@
+webpackJsonp([0x5d16ea1533fc],{341:function(t,e){t.exports={data:{site:{siteMetadata:{title:"BJ Pennington",description:"A Gatsby.js Starter based on Dimension by HTML5 UP"}}},pathContext:{}}}});
+//# sourceMappingURL=path---new-page-55f568caf87ce09de0c7.js.map
